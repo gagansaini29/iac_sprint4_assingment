@@ -12,7 +12,7 @@ on:
 
 jobs:
   terraform:
-    name: 'Terraform'
+    name: 'manual destroy'
     runs-on: ubuntu-latest
 
     steps:

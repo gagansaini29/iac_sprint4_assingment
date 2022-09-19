@@ -1,5 +1,3 @@
-
-
 name: 'automatic instance destory'
 
 on:
@@ -12,7 +10,7 @@ on:
 
 jobs:
   terraform:
-    name: 'Terraform'
+    name: 'automatic destroy'
     runs-on: ubuntu-latest
 
     steps:
