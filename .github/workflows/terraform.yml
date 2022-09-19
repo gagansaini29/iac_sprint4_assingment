@@ -1,6 +1,6 @@
 
 
-name: 'Terraform'
+name: 'automatic instance destory'
 
 on:
   push:
